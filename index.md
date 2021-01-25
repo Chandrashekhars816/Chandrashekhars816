@@ -1,6 +1,6 @@
 ## Welcome to my data dump where I upload everything that required by HR team if they consider me for some profile
 
-You can use the [Download My Resume](https://drive.google.com/drive/folders/1czJ_xcD8Vfw3U1S4bGdv-CnDdX46sD7h?usp=sharing)
+You can use the [Download My Resume](https://drive.google.com/file/d/11zI8oEVn9kwxWLd6p2mNEfiYBl4TGg3P/view?usp=sharing)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
