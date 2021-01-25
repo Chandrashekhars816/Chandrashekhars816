@@ -2,8 +2,6 @@
 
 You can use that to -->[Download My Resume](https://drive.google.com/file/d/11zI8oEVn9kwxWLd6p2mNEfiYBl4TGg3P/view?usp=sharing)
 
-## Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
