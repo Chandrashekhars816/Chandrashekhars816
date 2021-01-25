@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my data dump where I upload everything that required by HR team if they consider me for some profile
 
-You can use the [editor on GitHub](https://github.com/Chandrashekhars816/Chandrashekhars816/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Download My Resume](https://drive.google.com/drive/folders/1czJ_xcD8Vfw3U1S4bGdv-CnDdX46sD7h?usp=sharing)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -28,10 +28,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chandrashekhars816/Chandrashekhars816/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/)
