@@ -4,6 +4,8 @@
 
  I'm a Linux enthusiastic student, Who started his technical journey from RedHat Enterprise Linux with hands-on in RHCSA training in 2019 and increasing his skills in the most demanding technologies such as RedHat Ansible and one of the very first few students to pass and clear the Ex294 examination. I believe in the approach of learning from mistakes and love troubleshooting. I'm always happy to connect with everyone and learn from them :) 
 
+1. Due to canceled training in college I had to find 
+
 ## Linux Certifications:
 
 ### [Red Hat Certified System Administration ( Ex200VK8 ) ](https://rhtapps.redhat.com/certifications/badge/verify/3SZTEWBQRSMI4TLSAEV33ABYC4AEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
