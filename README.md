@@ -6,6 +6,8 @@
  
 ## How I started with RHCA track: 
 
+1. Due to canceled training in college I had to find 
+
 ## Linux Certifications:
 
 ### [Red Hat Certified System Administration ( Ex200VK8 ) ](https://rhtapps.redhat.com/certifications/badge/verify/3SZTEWBQRSMI4TLSAEV33ABYC4AEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
