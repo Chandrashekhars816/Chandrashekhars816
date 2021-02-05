@@ -7,6 +7,8 @@
 ## Projects List ( Basic Projects ) :
 1. [Ansible-Deployer](https://github.com/Chandrashekhars816/ansible-deploy/blob/main/README.md)
 
+![](https://img.shields.io/github/commit-activity/m/Chandrashekhars816/ansible-deploy)
+
 <a href="https://github.com/Chandrashekhars816/ansible-deploy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandrashekhars816&repo=ansible-deploy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -14,6 +16,8 @@
 [![Stargazers repo roster for @Chandrashekhars816/ansible-deploy](https://reporoster.com/stars/Chandrashekhars816/ansible-deploy)]
 
 2. [Systemconfig](https://github.com/Chandrashekhars816/systemconfig/blob/master/README.md)
+
+![](https://img.shields.io/github/commit-activity/m/Chandrashekhars816/systemconfig)
 
 [![Stargazers repo roster for @Chandrashekhars816/systemconfig](https://reporoster.com/stars/Chandrashekhars816/systemconfig)]
 
@@ -61,6 +65,9 @@ Openshift Administration.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandrashekhars816&repo=systemconfig&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+
+![](https://img.shields.io/github/stars/Chandrashekhars816?style=social)
+![](https://img.shields.io/github/followers/Chandrashekhars816?style=social)
 
 ## Profile Stargazers
 
