@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a Linux enthusiastic student, Who started his technical journey from RedHat Enterprise Linux with hands-on in RHCSA training in 2019 and increasing his skills in the most demanding technologies such as RedHat Ansible and one of the very first few students to pass and clear the Ex294 examination. I believe in the approach of learning from mistakes and love troubleshooting. I'm always happy to connect with everyone and learn from them :)
+
+Projects List ( Basic Projects ):
+1. [Ansible-Deployer](https://www.linkedin.com/in/chandra-shekhar-s-a76b37158/)
+
