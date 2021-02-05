@@ -27,10 +27,13 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
+1. <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 
-Ansible
+Ansible Automation.
 
+2. <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/561px-OpenShift-LogoType.svg.png" />
+
+Openshift Administration.
 
 ## Github Stats:
 
