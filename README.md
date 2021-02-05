@@ -46,9 +46,20 @@ Openshift Administration.
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 
-## Github Stats :
+## &#x1f4c8; GitHub Stats
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chandrashekhars816&show_icons=true&hide_border=true" />
+<a href="https://github.com/Chandrashekhars816/Chandrashekhars816">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrashekhars816&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandrashekhars816&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chandra Shekhar's GitHub Stats" />
+</a>
+<a href="https://github.com/Chandrashekhars816/ansible-deploy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandrashekhars816&repo=ansible-deploy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Chandrashekhars816/systemconfig">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandrashekhars816&repo=systemconfig&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 ## Profile Stargazers
