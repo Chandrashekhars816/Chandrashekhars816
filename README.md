@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## Contact Me At:
-:email: [Gmail](2017pietcschandra031@poornima.org)
+:email: [Gmail](mailto:2017pietcschandra031@poornima.org)
 
 
 ### Languages and Tools:
