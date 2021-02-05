@@ -1,4 +1,4 @@
-### Hi there 👋
+### BIO 🔭
 
 <!--
 **Chandrashekhars816/Chandrashekhars816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612520809~hmac=731c295fe52650458f385570b1d19a21" /> [LinkedIn](https://www.linkedin.com/in/chandra-shekhar-sharma-a76b37158/)
 
 <img align="left" alt="HTML5" width="26px" src="" /> [Ansible Galaxy]()
-
-### Languages and Tools:
-
+  
+## Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 
@@ -38,6 +37,7 @@ Ansible Automation.
 
 Openshift Administration.
 
+  
 ## Github Stats:
 
 <details>
