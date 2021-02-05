@@ -65,7 +65,6 @@ Openshift Administration.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandrashekhars816&repo=systemconfig&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 ![](https://img.shields.io/github/stars/Chandrashekhars816?style=social)
 ![](https://img.shields.io/github/followers/Chandrashekhars816?style=social)
 
