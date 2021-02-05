@@ -36,6 +36,11 @@ Openshift Administration.
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chandrashekhars816&show_icons=true&hide_border=true" />
 
+
+## Stargazers
+
+[![Stargazers repo roster for @Chandrashekhars816/Chandrashekhars816](https://reporoster.com/stars/Chandrashekhars816/Chandrashekhars816)](https://github.com/waylonwalker/waylonwalker/stargazers)
+
 ### Thanks for Visiting.
 
 <img align="left" alt="OctaCat" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612526199002.png" />
