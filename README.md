@@ -14,11 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm a Linux enthusiastic student, Who started his technical journey from RedHat Enterprise Linux with hands-on in RHCSA training in 2019 and increasing his skills in the most demanding technologies such as RedHat Ansible and one of the very first few students to pass and clear the Ex294 examination. I believe in the approach of learning from mistakes and love troubleshooting. I'm always happy to connect with everyone and learn from them :)
+### I'm a Linux enthusiastic student, Who started his technical journey from RedHat Enterprise Linux with hands-on in RHCSA training in 2019 and increasing his skills in the most demanding technologies such as RedHat Ansible and one of the very first few students to pass and clear the Ex294 examination. I believe in the approach of learning from mistakes and love troubleshooting. I'm always happy to connect with everyone and learn from them :)
 
-Projects List ( Basic Projects ):
+## Projects List ( Basic Projects ):
 1. [Ansible-Deployer](https://github.com/Chandrashekhars816/ansible-deploy/blob/main/README.md)
 
 
-Contact Me At:
-1. [Gmail]()
+## Contact Me At:
+:email: [Gmail](2017pietcschandra031@poornima.org)
+
+## Github Stats:
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chandrashekhars816&show_icons=true&hide_border=true" />
+
+</details>
