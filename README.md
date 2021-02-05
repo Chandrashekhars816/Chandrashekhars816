@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 
 
 ## Contact Me At:
-:email: [Gmail](mailto:2017pietcschandra031@poornima.org)
+<img align="left" alt="HTML5" width="26px" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" /> [Gmail](mailto:2017pietcschandra031@poornima.org)
 
+<img align="left" alt="HTML5" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612520809~hmac=731c295fe52650458f385570b1d19a21" /> [LinkedIn](https://www.linkedin.com/in/chandra-shekhar-sharma-a76b37158/)
+
+<img align="left" alt="HTML5" width="26px" src="" /> [Ansible Galaxy]()
 
 ### Languages and Tools:
 
