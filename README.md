@@ -7,6 +7,10 @@
 ## Projects List ( Basic Projects ) :
 1. [Ansible-Deployer](https://github.com/Chandrashekhars816/ansible-deploy/blob/main/README.md)
 
+<a href="https://github.com/Chandrashekhars816/ansible-deploy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandrashekhars816&repo=ansible-deploy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 [![Stargazers repo roster for @Chandrashekhars816/ansible-deploy](https://reporoster.com/stars/Chandrashekhars816/ansible-deploy)]
 
 2. [Systemconfig](https://github.com/Chandrashekhars816/systemconfig/blob/master/README.md)
@@ -36,7 +40,12 @@ Ansible Automation.
 
 Openshift Administration.
 
-  
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+
 ## Github Stats :
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chandrashekhars816&show_icons=true&hide_border=true" />
