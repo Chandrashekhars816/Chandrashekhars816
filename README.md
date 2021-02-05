@@ -3,6 +3,10 @@
 ## About Myself:
 
  I'm a Linux enthusiastic student, Who started his technical journey from RedHat Enterprise Linux with hands-on in RHCSA training in 2019 and increasing his skills in the most demanding technologies such as RedHat Ansible and one of the very first few students to pass and clear the Ex294 examination. I believe in the approach of learning from mistakes and love troubleshooting. I'm always happy to connect with everyone and learn from them :)
+ 
+## How I started with RHCA track: 
+
+1. Due to canceled training in college I had to find 
 
 ## Linux Certifications:
 
