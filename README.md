@@ -6,7 +6,12 @@
 
 ## Projects List ( Basic Projects ) :
 1. [Ansible-Deployer](https://github.com/Chandrashekhars816/ansible-deploy/blob/main/README.md)
+
+[![Stargazers repo roster for @Chandrashekhars816/ansible-deploy](https://reporoster.com/stars/Chandrashekhars816/ansible-deploy)]
+
 2. [Systemconfig](https://github.com/Chandrashekhars816/systemconfig/blob/master/README.md)
+
+[![Stargazers repo roster for @Chandrashekhars816/systemconfig](https://reporoster.com/stars/Chandrashekhars816/systemconfig)]
 
 <img align="left" alt="HTML5" width="40px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" />
 
