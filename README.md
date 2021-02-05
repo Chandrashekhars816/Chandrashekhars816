@@ -6,6 +6,7 @@
 
 ## Projects List ( Basic Projects ) :
 1. [Ansible-Deployer](https://github.com/Chandrashekhars816/ansible-deploy/blob/main/README.md)
+2. [Systemconfig](https://github.com/Chandrashekhars816/systemconfig/blob/main/README.md)
 
 <img align="left" alt="HTML5" width="40px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" />
 
