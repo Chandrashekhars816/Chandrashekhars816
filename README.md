@@ -32,15 +32,6 @@
 
 <img align="left" alt="HTML5" width="40px" src="https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif" />
 
-### Contact Me At :
-
-<img align="left" alt="HTML5" width="26px" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" /> [Gmail](mailto:2017pietcschandra031@poornima.org)
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" /> [Ansible Galaxy](https://galaxy.ansible.com/chandrashekhars816)
- 
-<img align="left" align="up" alt="HTML5" width="40px" src="https://media.giphy.com/media/Vbn7PUTxaB6dVnVa2h/giphy.gif" />
-
-
 ### Languages and Tools :
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
